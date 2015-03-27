@@ -130,3 +130,23 @@ F:\Nick\WiP\InterfaceDesign\InterfaceDesign\bin\Debug\InterfaceDesign.pdb
 F:\Nick\WiP\InterfaceDesign\InterfaceDesign\bin\Debug\InterfaceDesign.xml
 C:\Users\Nick\Desktop\WiP\InterfaceDesign\InterfaceDesign\obj\x86\Debug\InterfaceDesign.frmEditScout.resources
 C:\Users\Nick\Desktop\WiP\InterfaceDesign\InterfaceDesign\obj\x86\Debug\InterfaceDesign.frmAddScout.resources
+C:\Users\Nick\Desktop\Scouting System\InterfaceDesign\obj\x86\Debug\InterfaceDesign.exe
+C:\Users\Nick\Desktop\Scouting System\InterfaceDesign\obj\x86\Debug\InterfaceDesign.xml
+C:\Users\Nick\Desktop\Scouting System\InterfaceDesign\obj\x86\Debug\InterfaceDesign.pdb
+C:\Users\Nick\Desktop\Scouting System\InterfaceDesign\bin\Debug\InterfaceDesign.exe
+C:\Users\Nick\Desktop\Scouting System\InterfaceDesign\bin\Debug\InterfaceDesign.pdb
+C:\Users\Nick\Desktop\Scouting System\InterfaceDesign\bin\Debug\InterfaceDesign.xml
+C:\Users\Nick\Desktop\Scouting System\InterfaceDesign\obj\x86\Debug\InterfaceDesign.frmAddScout.resources
+C:\Users\Nick\Desktop\Scouting System\InterfaceDesign\obj\x86\Debug\InterfaceDesign.frmAddFixture.resources
+C:\Users\Nick\Desktop\Scouting System\InterfaceDesign\obj\x86\Debug\InterfaceDesign.frmAddReport.resources
+C:\Users\Nick\Desktop\Scouting System\InterfaceDesign\obj\x86\Debug\InterfaceDesign.frmAttributesSearch.resources
+C:\Users\Nick\Desktop\Scouting System\InterfaceDesign\obj\x86\Debug\InterfaceDesign.frmEditPlayerInformation.resources
+C:\Users\Nick\Desktop\Scouting System\InterfaceDesign\obj\x86\Debug\InterfaceDesign.frmEditReport.resources
+C:\Users\Nick\Desktop\Scouting System\InterfaceDesign\obj\x86\Debug\InterfaceDesign.frmEditScout.resources
+C:\Users\Nick\Desktop\Scouting System\InterfaceDesign\obj\x86\Debug\InterfaceDesign.frmLogin.resources
+C:\Users\Nick\Desktop\Scouting System\InterfaceDesign\obj\x86\Debug\InterfaceDesign.frmPlayerInfo.resources
+C:\Users\Nick\Desktop\Scouting System\InterfaceDesign\obj\x86\Debug\InterfaceDesign.Resources.resources
+C:\Users\Nick\Desktop\Scouting System\InterfaceDesign\obj\x86\Debug\InterfaceDesign.UCAddAttribute.resources
+C:\Users\Nick\Desktop\Scouting System\InterfaceDesign\obj\x86\Debug\InterfaceDesign.UCAttributes.resources
+C:\Users\Nick\Desktop\Scouting System\InterfaceDesign\obj\x86\Debug\InterfaceDesign.UC_Menu_Scout.resources
+C:\Users\Nick\Desktop\Scouting System\InterfaceDesign\obj\x86\Debug\InterfaceDesign.vbproj.GenerateResource.Cache
